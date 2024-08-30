@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danh9299/blog-duyanh.git"
+  },
+  "keywords": [
+    "blog",
+    "duy",
+    "anh",
+    "nodejs"
+  ],
+  "author": "Duy Anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danh9299/blog-duyanh/issues"
+  },
+  "homepage": "https://github.com/danh9299/blog-duyanh#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
